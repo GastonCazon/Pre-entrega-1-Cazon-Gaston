@@ -1,5 +1,5 @@
 const capital = prompt("Ingrese su capital"); // Monto del préstamo
-const intereses = prompt("Intereses a pagar"); // Tasa de interés anual en porcentaje
+const intereses = 5; // Tasa de interés anual en porcentaje
 const años = prompt("Tiempo de pago"); // Plazo del préstamo en años
 
 //funcion de calculo de prestamo
